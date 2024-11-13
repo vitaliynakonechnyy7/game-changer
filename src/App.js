@@ -8,6 +8,7 @@ function App() {
         <h3>
           Привет Houston we have a problem! Это мой первый проект на React!
         </h3>
+        <span class="material-symbols-outlined icon">construction</span>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
